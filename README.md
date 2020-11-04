@@ -1,6 +1,7 @@
 ## Commission calculator api for completed transactions
 
-To calculate use post request on api route /commission/calculate
+To calculate use post request on api route /commission/calculate. "Commission" property in modified input represents 
+calculated commission.
 
 Example input: 
 
